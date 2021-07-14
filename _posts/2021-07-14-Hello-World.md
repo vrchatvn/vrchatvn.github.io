@@ -8,17 +8,17 @@ title: You're up and running!
 **Bài mới nhất:**  
 ## GIẢI THÍCH VỀ REGION UPDATE - BẢN CẬP NHẬT LỰA CHỌN KHU VỰC TRUY CẬP  
 
+<video width="1080" height="720" controls>
+  <source type="video/mp4" src="https://user-images.githubusercontent.com/46659362/123531180-4b39fb00-d73d-11eb-8f70-4d44b1df06f1.mp4">
+</video>
+
+
 <p align="right">
 Ngày viết: 27 tháng 6 năm 2021<br>   
 Update ngày: 16 tháng 6 năm 2021<br>   
 Build 1106<br>   
 Nguồn ReleaseNote: <a href="https://docs.vrchat.com/docs/vrchat-202124">2021.2.4</a>
 </p>
-
-<video width="320" height="240" controls>
-  <source type="video/mp4" src="https://user-images.githubusercontent.com/46659362/123531180-4b39fb00-d73d-11eb-8f70-4d44b1df06f1.mp4">
-</video>
-
 
 Để giảm tình trạng lag và cải thiện trải nghiệm chơi, vừa qua VRChat đã cập nhật tính năng mới tên là Region Update (bản cập nhật lựa chọn khu vực truy cập).  
 
