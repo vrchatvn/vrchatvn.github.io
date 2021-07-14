@@ -1,17 +1,10 @@
 ---
 layout: post
-title: VRChatVietNam-wiki - GIẢI THÍCH VỀ REGION UPDATE - BẢN CẬP NHẬT LỰA CHỌN KHU VỰC TRUY CẬP
+title: GIẢI THÍCH VỀ REGION UPDATE - BẢN CẬP NHẬT LỰA CHỌN KHU VỰC TRUY CẬP  -  27 tháng 6 năm 2021
 ---
-
-**Bài mới nhất:**  
-## GIẢI THÍCH VỀ REGION UPDATE - BẢN CẬP NHẬT LỰA CHỌN KHU VỰC TRUY CẬP  
-
-https://user-images.githubusercontent.com/46659362/123531180-4b39fb00-d73d-11eb-8f70-4d44b1df06f1.mp4
-
 <video width="640" height="480" controls>
   <source type="video/mp4" src="https://user-images.githubusercontent.com/46659362/123531180-4b39fb00-d73d-11eb-8f70-4d44b1df06f1.mp4">
 </video>
-
 
 <p align="right">
 Ngày viết: 27 tháng 6 năm 2021<br>   
@@ -49,8 +42,3 @@ Nguồn:
 
 ## Những bài cũ: (1 bài)  
   - [GIẢI THÍCH VỀ REGION UPDATE - BẢN CẬP NHẬT LỰA CHỌN KHU VỰC TRUY CẬP](https://github.com/trandang0709/VRChatVietNam-wiki/blob/main/region-update.md)
-
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.

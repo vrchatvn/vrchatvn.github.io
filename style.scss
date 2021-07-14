@@ -17,19 +17,43 @@ html {
   font-size: 100%;
 }
 
+head{
+
+}
 body {
 	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
-.container {
-  margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
+.container4header {
+  background: $white;
+  margin:  auto;
+  max-width: 1920x;
+  padding: 0px 10px 0px 10px;
   width: 100%;
 }
 
+.container4navi {
+  background: $white;
+  margin:  auto;
+  max-width: 1920x;
+  padding: 0px 10px 0px 110px;
+  width: 100%;
+  @include mobile {
+    margin:  auto;
+    max-width: 1920x;
+    padding: 0px 10px 0px 10px;
+    width: 100%;
+  }
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 0px 10px;
+  width: 100%;
+}
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
@@ -45,14 +69,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 20px;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 16px;
 }
 
 h3 {
@@ -198,6 +222,16 @@ img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
+
+  @include mobile {
+    margin: 0;
+    color: $darkGray;
+    cursor: pointer;
+    font-family: $helveticaNeue;
+    font-weight: 300;
+    font-size: 23px;
+    letter-spacing: 1px;
+  }
 }
 
 .site-description {
@@ -210,28 +244,30 @@ img {
   }
 }
 
-nav {
+.nav {
   float: left;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin: 0px 0px 0px 18px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
-  font-size: 18px;
+  font-size: 20px;
 
   @include mobile {
-    float: none;
+    float: left;
     margin-top: 9px;
     display: block;
     font-size: 16px;
   }
 
   a {
-    margin-left: 20px;
+    margin-left: 30px;
+    padding: 8px;
     color: $darkGray;
     text-align: left;
-    font-weight: 300;
+    font-weight: 400;
     letter-spacing: 1px;
 
     @include mobile {
-      margin: 0 10px;
+      margin: 0 2px;
+      padding: 1px;
       color: $blue;
     }
   }
