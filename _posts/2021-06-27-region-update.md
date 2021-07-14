@@ -1,9 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: VRChatVietNam-wiki - GIẢI THÍCH VỀ REGION UPDATE - BẢN CẬP NHẬT LỰA CHỌN KHU VỰC TRUY CẬP
 ---
-
-# VRChatVietNam-wiki - Giải thích về bằng tiếng Việt về VRChat
 
 **Bài mới nhất:**  
 ## GIẢI THÍCH VỀ REGION UPDATE - BẢN CẬP NHẬT LỰA CHỌN KHU VỰC TRUY CẬP  
