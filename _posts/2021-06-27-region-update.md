@@ -8,7 +8,7 @@ title: VRChatVietNam-wiki - GIẢI THÍCH VỀ REGION UPDATE - BẢN CẬP NHẬ
 
 https://user-images.githubusercontent.com/46659362/123531180-4b39fb00-d73d-11eb-8f70-4d44b1df06f1.mp4
 
-<video width="1080" height="720" controls>
+<video width="640" height="480" controls>
   <source type="video/mp4" src="https://user-images.githubusercontent.com/46659362/123531180-4b39fb00-d73d-11eb-8f70-4d44b1df06f1.mp4">
 </video>
 
