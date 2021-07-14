@@ -8,6 +8,8 @@ title: You're up and running!
 **Bài mới nhất:**  
 ## GIẢI THÍCH VỀ REGION UPDATE - BẢN CẬP NHẬT LỰA CHỌN KHU VỰC TRUY CẬP  
 
+https://user-images.githubusercontent.com/46659362/123531180-4b39fb00-d73d-11eb-8f70-4d44b1df06f1.mp4
+
 <video width="1080" height="720" controls>
   <source type="video/mp4" src="https://user-images.githubusercontent.com/46659362/123531180-4b39fb00-d73d-11eb-8f70-4d44b1df06f1.mp4">
 </video>
